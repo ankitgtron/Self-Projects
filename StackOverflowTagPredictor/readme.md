@@ -46,9 +46,13 @@ http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
 1. Used Pandas to Load the dataset
 2. Removed all the duplicate questions.
 3. Analysed the tags and major findings are - 
+
     a)There are total 153 tags which are used more than 10000 times.
+    
     b)14 tags are used more than 100000 times.
+    
     c)Most frequent tag (i.e. c#) is used 331505 times.
+    
     d)Since some tags occur much more frequenctly than others, Micro-averaged F1-score is the appropriate metric for this probelm.
 4. Preprocessing
     a)Sample 1M data points
