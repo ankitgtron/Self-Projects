@@ -9,14 +9,23 @@ Number of Attributes/Columns in data: 10
 
 Attribute Information:
 a)Id
+
 b)ProductId - unique identifier for the product
+
 c)UserId - unqiue identifier for the user
+
 d)ProfileName
+
 e)HelpfulnessNumerator - number of users who found the review helpful
+
 f)HelpfulnessDenominator - number of users who indicated whether they found the review helpful or not
+
 g)Score - rating between 1 and 5
+
 h)Time - timestamp for the review
+
 i)Summary - brief summary of the review
+
 j)Text - text of the review
 
 Objective:
