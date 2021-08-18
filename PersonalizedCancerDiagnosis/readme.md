@@ -1,3 +1,22 @@
+---------------------**-----------------------**-----------------------**--------------------
+Key Points :-
+
+1. Split the dataset randomly into three parts train, cross validation and test with 64%,16%, 20% of data respectively
+
+2. Preprocessing of text
+
+3. Prediction using a 'Random' Model
+
+4. completed Univariate analysis.
+
+5. Used different vectorizer Gene Feature One-Hot, Var Feature One-Hot, Text Feature One-Hot and applied Linear SVM.
+
+6. Used TfIdf All Features vectorizer and applied Naive Bayes and multinomial Naive Bayes classification algorithm
+
+7. applied K Nearest Neighbour Classification algorithm.
+
+------------------------**----------------------**--------------------------------------------------
+
 Personalized cancer diagnosis
 
 Description
@@ -44,21 +63,6 @@ No Latency constraints.
 
 
 
-Key Points :-
-
-1. Split the dataset randomly into three parts train, cross validation and test with 64%,16%, 20% of data respectively
-
-2. Preprocessing of text
-
-3. Prediction using a 'Random' Model
-
-4. completed Univariate analysis.
-
-5. Used different vectorizer Gene Feature One-Hot, Var Feature One-Hot, Text Feature One-Hot and applied Linear SVM.
-
-6. Used TfIdf All Features vectorizer and applied Naive Bayes and multinomial Naive Bayes classification algorithm
-
-7. applied K Nearest Neighbour Classification algorithm.
 
  
 
