@@ -1,3 +1,20 @@
+------------------***---------------------***------------------***------------------------------
+
+Key Points:=
+1. Load the dataset and done the preprocessing
+
+2. analysed the average movie rating or average user's rating.
+
+3. PDF's & CDF's of Avg.Ratings of Users & Movies (In Train Data)
+
+4. Computed User-User similarity matrix and Movie-Movie similarity matrix to find the most similar movie.
+
+5.  Transformed data for surprised model
+
+6.  Applyed XGBoost Algorithm to improve the Root Mean Square Error and Mean Absolute Percentage Error
+
+-------------------**-------------------**--------------------------------------------------------------
+
 Problem Description
 Netflix is all about connecting people to the movies they love. To help customers find those movies, they developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes. And while Cinematch is doing pretty well, it can always be made better.
 
@@ -38,16 +55,5 @@ Performance metric
 a. Mean Absolute Percentage Error: https://en.wikipedia.org/wiki/Mean_absolute_percentage_error
 b. Root Mean Square Error: https://en.wikipedia.org/wiki/Root-mean-square_deviation
 
-Key Points:=
-1. Load the dataset and done the preprocessing
 
-2. analysed the average movie rating or average user's rating.
-
-3. PDF's & CDF's of Avg.Ratings of Users & Movies (In Train Data)
-
-4. Computed User-User similarity matrix and Movie-Movie similarity matrix to find the most similar movie.
-
-5.  Transformed data for surprised model
-
-6.  Applyed XGBoost Algorithm to improve the Root Mean Square Error and Mean Absolute Percentage Error
     
