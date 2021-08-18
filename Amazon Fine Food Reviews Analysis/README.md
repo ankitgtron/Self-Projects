@@ -1,6 +1,6 @@
 ------------*------------------*----------------------------*-------------------------------*----------------------------------*--------------------------
 
-##Key Points:=
+**Key Points:=
 
 1) Loading the data using .csv file and SQLite Database
 
@@ -25,6 +25,8 @@
   4) Analysed Bag of Words, TF-IDF, Word2Vec techniques and Converted text into vectors using Avg-W2V, TFIDF-W2V, TFIDF wighted W2V.
   
   5) Applyed TNSE on Text BOW vectors, Text TFIDF vectors, Text Avg W2V vectors, Text TFIDF weighted W2V vectors.
+
+
 
 
 -----------------------------*-------------------*-------------------------*---------------------------
