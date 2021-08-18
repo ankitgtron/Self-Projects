@@ -55,17 +55,29 @@ http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
     
     d)Since some tags occur much more frequenctly than others, Micro-averaged F1-score is the appropriate metric for this probelm.
 4. Preprocessing
+
     a)Sample 1M data points
+    
     b)Separate out code-snippets from Body
+    
     c)Remove Spcial characters from Question title and description (not in code)
+    
     d)Remove stop words (Except 'C')
+    
     e)Remove HTML Tags
+    
     f)Convert all the characters into small letters
+    
     g)Use SnowballStemmer to stem the words
+    
  5. Apply Logistic Regression with OneVsRest Classifier
+
       a)accuracy : 0.081965
+      
       b)macro f1 score : 0.0963020140154
+      
       c)micro f1 scoore : 0.374270748817
+      
       d)hamming loss : 0.00041225090909090907
 
 
