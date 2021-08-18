@@ -47,9 +47,9 @@ It can also seen as a Regression problem
 
 Performance metric
 
-1. Mean Absolute Percentage Error: https://en.wikipedia.org/wiki/Mean_absolute_percentage_error
+a. Mean Absolute Percentage Error: https://en.wikipedia.org/wiki/Mean_absolute_percentage_error
 
-2. Root Mean Square Error: https://en.wikipedia.org/wiki/Root-mean-square_deviation
+b. Root Mean Square Error: https://en.wikipedia.org/wiki/Root-mean-square_deviation
 
 
 1. Load the dataset and done the preprocessing
