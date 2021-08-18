@@ -29,6 +29,7 @@ Key Points:=
 2) Data Cleaning: Deduplication
 
 3) Text Processing 
+
     a)Begin by removing the html tags
     
     b) Remove any punctuations or limited set of special characters like , or . or # etc.
@@ -42,4 +43,8 @@ Key Points:=
     f)Remove Stopwords
     
     g)Finally Snowball Stemming the word (it was obsereved to be better than Porter Stemming)
+  
+  4) Analysed Bag of Words, TF-IDF, Word2Vec techniques and Converted text into vectors using Avg-W2V, TFIDF-W2V, TFIDF wighted W2V.
+  
+  5) Applyed TNSE on Text BOW vectors, Text TFIDF vectors, Text Avg W2V vectors, Text TFIDF weighted W2V vectors.
     
