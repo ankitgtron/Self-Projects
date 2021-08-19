@@ -14,7 +14,7 @@ Key Points :-
 
 6. Used TfIdf Features vectorizer and applied Naive Bayes and Mltinomial Naive Bayes classification algorithm to minimize the multi class log loss.
 
-7. Applied K Nearest Neighbors clasification algorithm.
+7. Applied K Nearest Neighbors classification algorithm.
 
 ------------------------**----------------------**--------------------------------------------------
 
