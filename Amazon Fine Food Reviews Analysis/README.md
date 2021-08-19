@@ -22,9 +22,9 @@ Key Points:=
     
     g)Finally Snowball Stemming the word (it was obsereved to be better than Porter Stemming)
   
-  4) Analysed Bag of Words, TF-IDF, Word2Vec techniques and Converted review text into vectors using Avg-W2V, TFIDF-W2V, TFIDF weighted W2V .
+  4) Analysed Bag of Words, TF-IDF, Word2Vec techniques and Converted review text into vectors using Avg-Word2Vec, TF-IDF-Word2Vec, TF-IDF weighted Word2Vec techniques.
   
-  5) Applyed TSNE on Text BOW vectors, Text TF-IDF vectors, Text Avg W2V vectors, Text TF-IDF weighted W2V vectors.
+  5) Applied TSNE on Text Bag of Words vectors, Text TF-IDF vectors, Text Average Word2Vec vectors, Text TF-IDF weighted Word2Vec vectors
 
 
 
