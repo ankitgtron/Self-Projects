@@ -3,7 +3,7 @@
 Key Points:=
 1. Load the dataset and done the preprocessing
 
-2. analysed the average movie rating or average user's rating.
+2. Analysed the average movie rating and average user's rating.
 
 3. PDF's & CDF's of Avg.Ratings of Users & Movies (In Train Data)
 
