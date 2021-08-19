@@ -11,7 +11,7 @@ Key Points:=
 
 5.  Transformed data for surprised model
 
-6.  Applyed XGBoost Algorithm to improve the Root Mean Square Error and Mean Absolute Percentage Error
+6.  Applyed XGBoost Algorithm to reduce the Root Mean Square Error and Mean Absolute Percentage Error.
 
 -------------------**-------------------**--------------------------------------------------------------
 
