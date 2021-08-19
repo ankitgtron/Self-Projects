@@ -28,7 +28,7 @@ Key Points:=
     
     g)Use SnowballStemmer to stem the words
     
- 5. Apply Logistic Regression with OneVsRest Classifier
+ 5. Apply Logistic Regression with One Vs Rest Classifier
 
       a)accuracy : 0.081965
       
