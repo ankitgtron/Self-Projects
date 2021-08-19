@@ -10,11 +10,11 @@ Key Points :-
 
 4. completed Univariate analysis.
 
-5. Used different vectorizer Gene Feature One-Hot, Var Feature One-Hot, Text Feature One-Hot and applied Linear SVM.
+5. Used different vectorizer Gene Feature One-Hot, Text Feature One-Hot for applying Linear SVM.
 
-6. Used TfIdf All Features vectorizer and applied Naive Bayes and multinomial Naive Bayes classification algorithm
+6. Used TfIdf Features vectorizer and applied Naive Bayes and Mltinomial Naive Bayes classification algorithm to minimize the multi class log loss.
 
-7. applied K Nearest Neighbour Classification algorithm.
+7. Applied K Nearest Neighbors clasification algorithm.
 
 ------------------------**----------------------**--------------------------------------------------
 
